@@ -1,6 +1,6 @@
 # Excel_Portfolio
 Portfolio including Excel dashboard, customer service projects, and online courses summary.
-Xin chào! Tôi là **Nguyễn Danh Quân**, sinh viên Trường Đại học Thương Mại, chuyên ngành Quản trị Thương mại Điện tử.  
+Xin chào! Tôi là Nguyễn Danh Quân, sinh viên Trường Đại học Thương Mại, chuyên ngành Quản trị Thương mại Điện tử.  
 Dưới đây là các dự án và thành tựu của tôi:
 
 ## 🎓 Học vấn
@@ -11,7 +11,7 @@ Dưới đây là các dự án và thành tựu của tôi:
 - Khen thưởng tại Trường Đại học Thương Mại 
 
 ## 📂 Dự án nổi bật
-- [📊 Dashboard phân tích dữ liệu (Excel)](./Portfolio_SupermarketSales_Nguyen_Danh_Quan.xlsx)  
+- [📊 Dashboard phân tích dữ liệu (Excel)] (./Portfolio Supermarket Sales.pdf) (./Portfolio_SupermarketSales_Nguyen_Danh_Quan.xlsx)  
 - 📑 Các bài tập nghiên cứu trong lĩnh vực E-commerce
 
 ---
