@@ -11,7 +11,7 @@ Dưới đây là các dự án và thành tựu của tôi:
 - Khen thưởng tại Trường Đại học Thương Mại 
 
 ## 📂 Dự án nổi bật
-- [📊 Dashboard phân tích dữ liệu (Excel)](./Portfolio Supermarket Sales.pdf)(./Portfolio_SupermarketSales_Nguyen_Danh_Quan.xlsx)  
+- [📊 Dashboard phân tích dữ liệu (Excel)](./Portfolio Supermarket Sales.pdf) (./Portfolio_SupermarketSales_Nguyen_Danh_Quan.xlsx)  
 - 📑 Các bài tập nghiên cứu trong lĩnh vực E-commerce
 
 ---
